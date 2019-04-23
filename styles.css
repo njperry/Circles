@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+body * {
+  position: fixed;
+  border-radius: 50%;
+}
+
+.blue {
+  background-color: blue;
+  width: 90%;
+  height: 90%;
+}
+
+.white {
+  background-color: white;
+  width: 60%;
+  height: 60%;
+}
+
+.red {
+  background-color: red;
+  width: 30%;
+  height: 30%;
+}
